@@ -1,0 +1,24 @@
+{
+  "name": "electron-layout",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "electron --remote-debugging-port=9090 ./sample/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dada-x/electron-layout.git"
+  },
+  "author": "dada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dada-x/electron-layout/issues"
+  },
+  "homepage": "https://github.com/dada-x/electron-layout#readme",
+  "devDependencies": {
+    "electron": "^10.1.4"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
